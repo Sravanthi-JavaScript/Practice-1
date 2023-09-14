@@ -1,0 +1,45 @@
+body {
+  background: white;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px 0;
+  margin: 0;
+  text-align: center;
+}
+/* img {
+  width: 200px;
+  display: block;
+}
+p {
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
+button {
+  border: 3px sloid rgb(19, 109, 178);
+  color: rgb(10, 10, 10);
+  margin-top: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 20px;
+  padding: 10px 16px;
+}
+#error {
+  color: red;
+  font-weight: 200;
+} */
+button {
+  margin: 20px 0;
+  padding: 5px 8px;
+  border: 1px solid black;
+  font-weight: bold;
+  background: white;
+  color: black;
+  cursor: pointer;
+}
+span {
+  border-bottom: 2px solid black;
+  padding: 4px;
+}
+#sum-el {
+  margin: 20px;
+}
